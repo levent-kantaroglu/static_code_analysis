@@ -1,0 +1,30 @@
+#SENARYO - 1
+#linter:
+#  rules:
+#    sort_pub_dependencies: true
+
+
+#SENARYO - 2
+#analyzer:
+#  errors:
+#   always_declare_return_types: error
+#
+#linter:
+#  rules:
+#    always_declare_return_types: true
+
+
+#SENARYO - 3
+#analyzer:
+#  errors:
+#    dead_code: warning
+  
+
+#SENARYO - 4
+#include: package:lint/analysis_options.yaml
+
+
+#SENARYO - 5
+#analyzer:
+#  exclude: [lib/commons/**]
+  

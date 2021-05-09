@@ -1,0 +1,25 @@
+name: static_code_analysis
+description: Flutter ile Statik Kod Analizi
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+#SENARYO - 4
+# lint: ^1.5.3
+#SENARYO - 1 
+# uuid: ^3.0.4
+# sqflite: ^2.0.0+3
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
