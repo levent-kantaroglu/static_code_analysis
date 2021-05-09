@@ -6,7 +6,7 @@ Büyük ve/veya birden fazla geliştiricinin çalıştığı projelerde, bu kull
 
 Flutter ve Dart projelerimizde de Analiz Sunucusu bu kapsamda faaliyet göstermektedir.
 
-Konuya ilişkin makaleye [mobiler.dev](mobiler.dev/posts/flutter-da-statik-kod-analizi) üzerinden erişebilirsiniz 
+Konuya ilişkin makaleye [mobiler.dev](https://www.mobiler.dev/posts/flutter-da-statik-kod-analizi) üzerinden erişebilirsiniz 
 
 
 Levent Kantaroğlu
